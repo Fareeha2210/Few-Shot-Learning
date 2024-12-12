@@ -1,2 +1,2 @@
 # Few-Shot-Learning
-This repository contain code file and datasets related to the few-shot Learning project.
+This repository contain code files and datasets related to the few-shot Learning project.
